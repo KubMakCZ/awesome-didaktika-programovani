@@ -4,9 +4,9 @@
 Zde budou vypracovaný alespoň nějaká část úkolů a prezentace do předmětu KI/DPG
 
 - [LOGO - vykreslit fraktal, kochova vločka, rekurzivní strom](https://github.com/KubMakCZ/awesome-didaktika-programovani/blob/main/koch-logo.md)
-- ALICE - WIP
-- Šachy
-- [Detekce skvrn na obrázku - python openCV]()
+- [Detekce skvrn na obrázku - python openCV](https://github.com/KubMakCZ/awesome-didaktika-programovani/tree/main/python_skvrny)
+- ALICE 3 - WIP
+- Šachy - C#
 
 
 ### Zdroje (odkazy které nikde jinde neodkazuji)
