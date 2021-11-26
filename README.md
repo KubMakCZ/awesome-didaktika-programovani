@@ -7,6 +7,7 @@ Zde budou vypracovaný alespoň nějaká část úkolů a prezentace do předmě
 - [Detekce skvrn na obrázku - python openCV](https://github.com/KubMakCZ/awesome-didaktika-programovani/tree/main/python_skvrny)
 - ALICE 3 - WIP
 - Šachy - C#
+- Práce s LEGO
 
 
 ### Zdroje (odkazy které nikde jinde neodkazuji)
