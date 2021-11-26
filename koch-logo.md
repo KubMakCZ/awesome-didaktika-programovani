@@ -7,7 +7,7 @@
  https://www.calormen.com/jslogo/
 
 ## Kódy
-Vytvoření kochovy vločky
+### Vytvoření kochovy vločky
 ```logo
 TO SNOWFLAKE.SIDE :LENGTH :DEPTH
 
@@ -38,7 +38,7 @@ clearscreen window hideturtle
 SNOWFLAKE 200 4
 ```
 
-Vytvoření stromu
+### Vytvoření stromu
 ```
 TO PLANT :SIZE :ANGLE
    IF :SIZE < 1 [ STOP ] 
@@ -55,7 +55,7 @@ END
 PLANT 100 0
 ```
 
-Trojúhelníkový fraktal
+### Trojúhelníkový fraktal
 ```
 TO TRIANGLE.FRACTAL :LENGTH :DEPTH
 
@@ -82,7 +82,7 @@ clearscreen window hideturtle
 TRIANGLE.FRACTAL 200 4
 ```
 
-Čtvercový fraktal
+### Čtvercový fraktal
 ```
 TO SQUARE.FRACTAL :LENGTH :DEPTH
 
@@ -103,7 +103,7 @@ clearscreen window hideturtle
 SQUARE.FRACTAL 200 4
 ```
 
-Kytičkový fraktál
+### Kytičkový fraktál
 ```
 TO CURLY.FRACTAL :SIZE
 
