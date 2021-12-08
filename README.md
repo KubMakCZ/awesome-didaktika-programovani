@@ -12,7 +12,7 @@ Doporučuji stáhnout celý repositář
 - [ChessConsole - Šachy - C# GUI i konzolová aplikace s ukázkou možných tahu s koňem - Projekt v Visual Studio](https://github.com/KubMakCZ/awesome-didaktika-programovani/tree/main/ChessConsole)
 - [Práce s LEGO - Prezentace](https://github.com/KubMakCZ/awesome-didaktika-programovani/blob/main/Programov%C3%A1n%C3%AD%20LEGO%20Mindstorm.pptx)
 - [Scrach 3- Detekce barvy, caesarova šifra, forgger, akvarium](https://github.com/KubMakCZ/awesome-didaktika-programovani/tree/main/scratch)
-- [Animace kresleného prasátka - python & logo]
+- [Animace kresleného prasátka - python & logo](https://github.com/KubMakCZ/awesome-didaktika-programovani/blob/main/kresleni-prasatko.md)
 
 
 
